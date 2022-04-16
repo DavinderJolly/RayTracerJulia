@@ -6,9 +6,9 @@ This repository is a rewrite of https://github.com/mustafarchive/once-more/ made
 
 1. Clone the repository.
    ```sh
-   $ git clone https://github.com/DavinderJolly/RayTracerJulia
+   git clone https://github.com/DavinderJolly/RayTracerJulia
    ```
 2. Compile and run main.jl.
    ```sh
-   $ julia main.jl
+   julia main.jl
    ```
